@@ -1,4 +1,5 @@
 # To declare the variable in pythin we just call that with the name.
+# This all are the immutable variables immutable means that the value can be changed.
 sugar_amount = 13
 print(f"Initialise the sugar level: {sugar_amount}")  # we need to add the f inside the brackets to get the string value or the formal string value.
 sugar_amount = 2
@@ -12,4 +13,4 @@ print(f" 13: {id(13)}")
  # 2: 4331956696
 # 13: 4331957048
 
-# Above we can see that the address is changed and that is because we are calling it by the reference,
+# Above we can see that the, address is changed and that is because we are calling it by the reference,
