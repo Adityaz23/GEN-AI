@@ -4,3 +4,9 @@
  **3.Control loop behavior using break, continue, and else clauses.**
  **4.Identify when to use for vs while loop**
  **5.Build real world logic through repetition.**
+
+ ## Enumerate ->
+ ** It means that the all elements will have some number to itself **
+
+ ## Zip ->
+ ** It means it will iterate over several iteratables parallel, within the items each one.**
