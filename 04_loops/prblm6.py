@@ -7,3 +7,10 @@ Task:-
     2. Incase the temp by 15 until it reaches or exceeds the temp 300
     3. Print each temp step.
 '''
+temp = 40
+while temp <100:
+    print(f"It is not heated increase the temprature. {temp} temprature")
+    # temp = temp + 15
+    temp +=24
+    print(f"The temprature reached {temp}")
+print(f"Oven is ready to use at {temp} temprature")

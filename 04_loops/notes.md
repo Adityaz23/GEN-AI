@@ -10,3 +10,6 @@
 
  ## Zip ->
  ** It means it will iterate over several iteratables parallel, within the items each one.**
+
+ ## Walrus operator -> 
+ ** It looks like this sign :=  **
