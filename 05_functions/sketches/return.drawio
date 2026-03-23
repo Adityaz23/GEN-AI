@@ -1,0 +1,32 @@
+<mxfile host="65bd71144e">
+    <diagram id="ZfixF8oW8UiFUYxkpvoe" name="Page-1">
+        <mxGraphModel dx="539" dy="335" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="6" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="3">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="485" y="480" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="3" value="def function_name():&lt;br&gt;pass&lt;br&gt;&lt;div&gt;return &quot;value&quot;&amp;nbsp;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="420" y="340" width="130" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="9" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="7">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="480" y="530" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="490" y="520"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="7" value="&lt;i&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;This return statement means to return anything evertime this function runs.&amp;nbsp;&lt;br&gt;And the value can be anything whatever you pass in the args.&lt;/font&gt;&lt;/i&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="300" y="473" width="360" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="10" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;i&gt;There are 3 types of values that can be returned in the functions return&lt;br&gt;&amp;nbsp;1.One value&lt;br&gt;2. Multiple value&lt;br&gt;3.Early return value&lt;/i&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="300" y="530" width="340" height="70" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
